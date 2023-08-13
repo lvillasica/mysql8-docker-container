@@ -139,3 +139,6 @@ Desktop.ini
 # ESLint
 ######################
 .eslintcache
+
+docker/db/data/*
+!docker/db/data/.gitkeep
